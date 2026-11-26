@@ -5,7 +5,7 @@
  *   비어 있으면 본문의 숨고 버튼은 렌더하지 않습니다.
  *   승인 후 https 주소를 넣으면 관련 본문에 바로 표시됩니다.
  */
-export const SOOMGO_URL = "";
+export const SOOMGO_URL = "https://lpweb.kr/click.php?m=soomgo&a=A100710589&l=0000";
 export const SOOMGO_LABEL = "숨고에서 이사·입주청소 견적 요청하기";
 
 export const LINKPRICE_DISCLOSURE =
